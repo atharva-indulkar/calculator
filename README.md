@@ -24,6 +24,6 @@ This is a simple web-based calculator application that allows users to perform b
 ## Project structure
 
 calculator
-├── index.html    # HTML structure of the calculator
+├── index.html        # HTML structure of the calculator
 ├── style.css         # Styling for the calculator (embedded in HTML)
-└── script.js          # JavaScript for functionality (embedded in HTML)
+└── script.js         # JavaScript for functionality (embedded in HTML)
